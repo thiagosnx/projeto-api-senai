@@ -815,3 +815,4 @@ C:\xampp\htdocs\Exo.WebApi\obj\Debug\net6.0\refint\Exo.WebApi.dll
 C:\xampp\htdocs\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.pdb
 C:\xampp\htdocs\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 C:\xampp\htdocs\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+C:\xampp\htdocs\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
